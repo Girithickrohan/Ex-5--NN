@@ -1,4 +1,4 @@
-H3>NAME: GIRITHICK ROHAN N</H3>
+<H3>NAME: GIRITHICK ROHAN N</H3>
 <H3>REGISTER NO: 212223230063</H3>
 <H3>EX. NO.5</H3>
 <H3>DATE: 31/10/25</H3>
@@ -105,8 +105,9 @@ print(f"Input: {np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), 
 ```
 <H3>OUTPUT:</H3>
 
-![img]()
-![img]()
+![img](https://github.com/Girithickrohan/Ex-5--NN/blob/main/Screenshot%202025-10-30%20215100.png)
+
+![img](https://github.com/Girithickrohan/Ex-5--NN/blob/main/Screenshot%202025-10-30%20215100.png)
 
 <H3>Result:</H3>
 Thus , a Radial Basis Function Neural Network is implemented to classify XOR data.
